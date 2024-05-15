@@ -8,7 +8,6 @@
 import React from 'react';
 import {
   SafeAreaView,
-  Text,
   useColorScheme,
 } from 'react-native';
 import { Provider } from 'react-redux';
